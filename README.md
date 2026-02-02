@@ -128,7 +128,7 @@ You are free to use, modify, and distribute this project with proper attribution
 
 ---
 
-## Author Information
+## Authors Information
 
 Original Concept: DIY Builder  
 Modified and Optimized by:
@@ -137,5 +137,11 @@ B.Sc. Engg. in IoT & Robotics Engineering
 University of Frontier Technology, Bangladesh  
 📧 Email: shahriar0002@std.uftb.ac.bd  
 🔗 LinkedIn: https://www.linkedin.com/in/shahriar-alom-masud
+
+**Ahmed Shahariar Udoy**  
+B.Sc. Engg. in IoT & Robotics Engineering  
+University of Frontier Technology, Bangladesh  
+📧 Email: shahariar0001@std.uftb.ac.bd  
+🔗 LinkedIn: https://www.linkedin.com/in/udoy00
 
 Year: 2024
